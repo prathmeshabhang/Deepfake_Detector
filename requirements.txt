@@ -12,6 +12,5 @@ tqdm
 requests
 beautifulsoup4
 moviepy
-dlib
-face_recognition
+
 
